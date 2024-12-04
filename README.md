@@ -1,5 +1,6 @@
 # Dewilux
-<p>A responsive and adaptive website for a paint and coatings company. It's featuring a product catalog and a contact form.</p>
+<p>A responsive and adaptive website for a paint and coatings company, featuring a product catalog, integrated Google Maps and a contact form for easy customer interaction.
+The design was developed collaboratively by our team to ensure a professional and user-friendly experience.</p>
 <img width="700" alt="Изображение сайта" src="https://sun9-73.userapi.com/impg/EGrNV8FOZgZaitdEp6h26t4lfnTqHocMPT52EA/d8xqIMqeAZ4.jpg?size=2560x1316&quality=95&sign=739ae2e792c0d6da1536f00c071f40b1&type=album">
 <img width="700" alt="Изображение сайта" src="https://sun9-69.userapi.com/impg/jT_88GTdF3KRL91orCcKItPHVW3a85nAnDEwkA/5T7mvUMVuhc.jpg?size=2560x1272&quality=95&sign=7f34bf847f69d6dbf3cd5c52013685f3&type=album">
 
